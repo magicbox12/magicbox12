@@ -1,0 +1,27 @@
+# Created by https://www.gitignore.io/api/vue
+# Edit at https://www.gitignore.io/?templates=vue
+
+### Vue ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+json/
+node_modules
+bower_componets
+files/*_*
+config/*
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+_updatefiles
+_output/*.pdf
+
+category/comm-dashboard-discipline/backup
+# End of https://www.gitignore.io/api/vue
