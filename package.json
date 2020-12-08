@@ -17,7 +17,7 @@
     "easy-pdf-merge": "^0.2.2",
     "event-stream": "^4.0.1",
     "exceljs": "^1.9.1",
-    "fast-csv": "^3.4.0",
+    "fast-csv": "^4.3.6",
     "file-saver": "^2.0.2",
     "filereader": "^0.10.3",
     "fr": "^1.2.2",
