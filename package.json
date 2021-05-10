@@ -29,7 +29,7 @@
     "json-diff": "^0.5.4",
     "jsondiffpatch": "^0.3.11",
     "list-to-tree": "^2.2.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "msexcel-builder": "0.0.2",
     "mssql": "^5.1.0",
